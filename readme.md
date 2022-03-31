@@ -64,17 +64,4 @@ skilled in enlisting the support of all team members in aligning with project an
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Material-ui](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material-ui)](https://material-ui.com/)
 
-<details>
-	<summary>:zap: GitHub Stats</summary>
-	<img src="https://github-readme-stats.vercel.app/api?username=huseyinozkilic&show_icons=true&theme=tokyonight" alt="huseyinozkilic" />
-</details>
 
-<details>
-	<summary>:zap: Top Languages</summary>
-	<img src="https://github-readme-stats-git-master.vercel.app/api/top-langs?username=huseyinozkilic&show_icons=true&langs_count=10&layout=compact" alt="huseyinozkilic" />
-</details>
-
-<details>
-	<summary>:zap: Wakatime Stats</summary>
-	<img src="https://wakatime.com/share/@huseyinozkilic/ac33f425-9e15-4897-a16c-e85c33511afd.svg" alt="huseyinozkilic">
-</details>
