@@ -2,7 +2,7 @@
 
 ### A Senior Frontend Developer
 
-9 years of senior ,total 13 years software engineering experience, with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
+10 years of senior ,total 14 years software engineering experience, with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
 able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues. An effective leader, 
 skilled in enlisting the support of all team members in aligning with project and organizational goals.
 
