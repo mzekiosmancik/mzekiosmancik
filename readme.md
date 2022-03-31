@@ -20,7 +20,7 @@ skilled in enlisting the support of all team members in aligning with project an
             src="https://img.shields.io/badge/-0077B5.svg?logoColor=white&style=for-the-badge&logo=linkedin"
             alt="mzekiosmancik" />
     </a>
-    <a href="https://mzekiosmancik.com" target="blank">
+    <a href="http://mzekiosmancik.com" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-2962FF.svg?logoColor=white&style=for-the-badge&logo=wordpress"
             alt="mzekiosmancik" />
