@@ -50,28 +50,28 @@ skilled in enlisting the support of all team members in aligning with project an
 [![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
 
-# OS
+#### OS
 [![Windows](https://img.shields.io/badge/Windows-1793D1.svg?logoColor=white&style=for-the-badge&logo=windows)](https://windows.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logoColor=black&style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![MACOS](https://img.shields.io/badge/Linux-FCC624.svg?logoColor=black&style=for-the-badge&logo=linux)](https://www.linux.org/)
 
-# Databases
+#### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logoColor=white&style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927.svg?logoColor=white&style=for-the-badge&logo=Microsoft-SQL-Server)](https://www.microsoft.com/sql-server/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logoColor=white&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-# Browsers
+#### Browsers
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]()
 [![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)]()
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)]()
 [![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)]()
 
-# Clouds
+#### Clouds
 [![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)]()
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
-# Gaming Accounts
+#### Gaming Accounts
 [![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)]()
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
 [![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)]()
