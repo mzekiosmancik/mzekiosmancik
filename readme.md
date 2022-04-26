@@ -27,7 +27,7 @@ skilled in enlisting the support of all team members in aligning with project an
     </a>
 </p>
 
-### Languages and Tools
+### Languages
 
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)]()
@@ -50,6 +50,7 @@ skilled in enlisting the support of all team members in aligning with project an
 [![Java](https://img.shields.io/badge/Java-007396.svg?logoColor=white&style=for-the-badge&logo=java)](https://www.java.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 
+#### Platforms
 [![Azure](https://img.shields.io/badge/Azure-0089D6.svg?logoColor=white&style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
