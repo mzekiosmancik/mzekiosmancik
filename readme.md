@@ -50,6 +50,10 @@ skilled in enlisting the support of all team members in aligning with project an
 [![Java](https://img.shields.io/badge/Java-007396.svg?logoColor=white&style=for-the-badge&logo=java)](https://www.java.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logoColor=white&style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927.svg?logoColor=white&style=for-the-badge&logo=Microsoft-SQL-Server)](https://www.microsoft.com/sql-server/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logoColor=white&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+
 #### Platforms
 [![Azure](https://img.shields.io/badge/Azure-0089D6.svg?logoColor=white&style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
@@ -65,16 +69,10 @@ skilled in enlisting the support of all team members in aligning with project an
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)]()
 
-
 #### OS
 [![Windows](https://img.shields.io/badge/Windows-1793D1.svg?logoColor=white&style=for-the-badge&logo=windows)](https://windows.com/)
 [	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
-
-#### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logoColor=white&style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927.svg?logoColor=white&style=for-the-badge&logo=Microsoft-SQL-Server)](https://www.microsoft.com/sql-server/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logoColor=white&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
 #### Browsers
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
