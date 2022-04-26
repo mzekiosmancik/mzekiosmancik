@@ -54,7 +54,6 @@ skilled in enlisting the support of all team members in aligning with project an
 [![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927.svg?logoColor=white&style=for-the-badge&logo=Microsoft-SQL-Server)](https://www.microsoft.com/sql-server/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logoColor=white&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-#### Platforms
 [![Azure](https://img.shields.io/badge/Azure-0089D6.svg?logoColor=white&style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
