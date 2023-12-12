@@ -2,7 +2,7 @@
 
 ### A Tech Lead
 
-12 years of senior ,total 16 years software engineering experience, with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
+4 years of Software Developer 10 years of Senior Software Developer and 2 years of Tech Lead experience, total 16 years Software Engineering with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
 able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues. An effective leader, 
 skilled in enlisting the support of all team members in aligning with project and organizational goals.
 
