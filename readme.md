@@ -1,8 +1,8 @@
 ## I'm Mezo
 
-### A Senior Frontend Developer
+### A Tech Lead
 
-10 years of senior ,total 15 years software engineering experience, with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
+12 years of senior ,total 16 years software engineering experience, with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
 able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues. An effective leader, 
 skilled in enlisting the support of all team members in aligning with project and organizational goals.
 
@@ -10,10 +10,10 @@ skilled in enlisting the support of all team members in aligning with project an
 ### Connect with me
 
 <p align="left">
-    <a href="https://twitter.com/mzekiosmancik" target="blank">
+    <a href="https://x.com/rider_mezo" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-1DA1F2.svg?logoColor=white&style=for-the-badge&logo=twitter"
-            alt="mzekiosmancik" />
+            alt="rider_mezo" />
     </a>
     <a href="https://linkedin.com/in/mzekiosmancik" target="blank">
         <img align="center"
