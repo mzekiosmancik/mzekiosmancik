@@ -59,7 +59,7 @@ skilled in enlisting the support of all team members in aligning with project an
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
-[![Arduino](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Arduino)](https://www.arduino.cc/)
+[![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
 #### IDE
