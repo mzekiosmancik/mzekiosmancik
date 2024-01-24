@@ -1,4 +1,10 @@
-## I'm Mezo
+## I'm Mezo 
+<p align='center'>
+ <a href="https://github.com/sponsors/mzekiosmancik">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>
+</p>
+
 
 ### A Tech Lead
 
@@ -25,11 +31,6 @@ skilled in enlisting the support of all team members in aligning with project an
             src="https://img.shields.io/badge/-2962FF.svg?logoColor=white&style=for-the-badge&logo=wordpress"
             alt="mzekiosmancik" />
     </a>
-</p>
-<p align='center'>
- <a href="https://github.com/sponsors/mzekiosmancik">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>
 </p>
 
 ### Languages
