@@ -8,13 +8,14 @@
 
 ### A Software Development Manager 
 
-What I’m known for
-Technical leadership: Architecting micro‑frontends, API contracts, and integration patterns; guiding complex upgrades and deprecations without disrupting delivery.
-Team building: Hiring and onboarding, establishing expectations and feedback loops, creating a psychologically safe environment where engineers can do their best work.
-Cross‑functional impact: Translating requirements into epics/user stories, aligning stakeholders, and unblocking execution across product, security, and infrastructure.
-AI/LLM enablement: Using Copilot/Cursor and RAG workflows to accelerate code scaffolding, test generation, documentation, and incident summaries; turning internal knowledge into searchable, reusable assets.
-Operational excellence: Raising code quality and release cadence through automation, lightweight design reviews, and pragmatic standards.
-
+#### What I’m known for : 
+<ul>
+<li>Technical leadership: Architecting micro‑frontends, API contracts, and integration patterns; guiding complex upgrades and deprecations without disrupting delivery.</li>
+<li>Team building: Hiring and onboarding, establishing expectations and feedback loops, creating a psychologically safe environment where engineers can do their best work.</li>
+<li>Cross‑functional impact: Translating requirements into epics/user stories, aligning stakeholders, and unblocking execution across product, security, and infrastructure.</li>
+<li>AI/LLM enablement: Using Copilot/Cursor and RAG workflows to accelerate code scaffolding, test generation, documentation, and incident summaries; turning internal knowledge into searchable, reusable assets.</li>
+<li>Operational excellence: Raising code quality and release cadence through automation, lightweight design reviews, and pragmatic standards.</li>
+</ul>
 
 ### Connect with me
 
