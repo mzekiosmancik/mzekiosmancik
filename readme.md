@@ -6,11 +6,14 @@
 </p>
 
 
-### A Tech Lead
+### A Software Development Manager 
 
-4 years of Software Developer 10 years of Senior Software Developer and 2 years of Tech Lead experience, total 16 years Software Engineering with strong analytical skills and a broad range of computer expertise .An excellent problem-solver, 
-able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues. An effective leader, 
-skilled in enlisting the support of all team members in aligning with project and organizational goals.
+What I’m known for
+Technical leadership: Architecting micro‑frontends, API contracts, and integration patterns; guiding complex upgrades and deprecations without disrupting delivery.
+Team building: Hiring and onboarding, establishing expectations and feedback loops, creating a psychologically safe environment where engineers can do their best work.
+Cross‑functional impact: Translating requirements into epics/user stories, aligning stakeholders, and unblocking execution across product, security, and infrastructure.
+AI/LLM enablement: Using Copilot/Cursor and RAG workflows to accelerate code scaffolding, test generation, documentation, and incident summaries; turning internal knowledge into searchable, reusable assets.
+Operational excellence: Raising code quality and release cadence through automation, lightweight design reviews, and pragmatic standards.
 
 
 ### Connect with me
